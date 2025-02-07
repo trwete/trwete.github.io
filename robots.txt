@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trwete.csgad.com/uKo/sitemap.xml.gz
